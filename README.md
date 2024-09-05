@@ -26,7 +26,7 @@ Um sistema bancário simples implementado em Python, utilizando orientação a o
 
 2. **Clonando o Repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/sistema-bancario.git
+   git clone https://github.com/D10liveira/sistema-bancario.git
    cd sistema-bancario
    ```
 
